@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @blutoz
+/src/backend/database.py      @blutoz
+/src/backend/routers/auth.py  @blutoz
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @blutoz
